@@ -73,10 +73,6 @@ python -m venv env
 env\Scripts\activate
 ```
 
-- On Mac/Linux:
-```bash
-source env/bin/activate
-```
 
 ### 4. Install dependencies
 
