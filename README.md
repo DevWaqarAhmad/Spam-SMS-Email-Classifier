@@ -105,6 +105,13 @@ streamlit run app.py
 | "Hey, meeting is at 3 PM today. Don't be late."                         | Not Spam   |
 
 ---
+## 🖼️ Screenshots
+
+| ✅ Not Spam Example | 🚫 Spam Example |
+|---------------------|-----------------|
+| ![Not Spam](assets/not_spam.png) | ![Spam](assets/spam.png) |
+
+These screenshots show how the Streamlit app classifies input text messages.
 
 ## 🌍 Live Deployment (Coming Soon)
 
